@@ -11,6 +11,10 @@
 #include "Asteroids.hpp"
 #include "Laser.hpp"
 
+// Unfortunately the game is not complete by hand-in time.
+// It is still in development. To see the fully updated version please check it out on Github:
+// https://github.com/ralfpatric/asteroidsGame
+
 
 using namespace sre;
 
